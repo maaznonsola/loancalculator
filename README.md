@@ -1,2 +1,3 @@
-# loancalculator
-using easy javascript I have created loan calculator
+# Loan Calculator
+* Technology Used: VanillaJS, Bootstrap (CSS Framework)
+* Concept Used: DOM Manipulation
